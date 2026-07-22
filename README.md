@@ -38,5 +38,5 @@
 
 ## Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Codeforces: https://codeforces.com/profile/YOUR_HANDLE
+- LinkedIn: https://www.linkedin.com/in/kareemstohy/
+- Codeforces: https://codeforces.com/profile/Shafe2
