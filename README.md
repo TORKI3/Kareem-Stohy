@@ -1,66 +1,78 @@
-<h1 align="center">Hi 👋, I'm Kareem Stohy</h1>
+<h1 align="center">
+  Hi 👋, I'm Kareem Stohy
+</h1>
 
-<h3 align="center">Aspiring AI Engineer | Deep Learning Enthusiast | Competitive Programmer</h3>
+<h3 align="center">
+Aspiring AI Engineer
+</h3>
 
----
-
-## 👨‍💻 About Me
-
-I'm an aspiring AI Engineer passionate about Artificial Intelligence and Deep Learning.
-
-Currently studying **Deep Learning with PyTorch**, improving my problem-solving skills, and building practical AI projects.
-
-- 🎯 Goal: Become an AI Engineer
-- 🧠 Currently learning Deep Learning with PyTorch
-- 💻 Competitive Programmer on Codeforces
-- 🤖 Interested in Machine Learning, Deep Learning, Computer Vision, and NLP
-- 📚 I enjoy learning, building, and sharing projects.
+<p align="center">
+Learning Deep Learning with PyTorch • Competitive Programmer
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### Languages
+I'm passionate about Artificial Intelligence and currently learning **Deep Learning with PyTorch**.
+
+I enjoy solving programming problems and building projects while continuously improving my skills.
+
+---
+
+# ⚡ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
+
+</p>
+
+### Programming
+
 - Python
 - C++
-- SQL
+- Object-Oriented Programming (OOP)
+- Data Structures
 
-### AI & Data Science
-- PyTorch
-- NumPy
-- Pandas
-- Matplotlib
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
----
-
-## 📖 Currently Learning
+### Currently Learning
 
 - Deep Learning with PyTorch
-- Neural Networks
-- Machine Learning
-- Computer Vision
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-> Projects will be added here as I continue my AI journey.
-
----
-
-## 🌐 Connect With Me
-
-- **GitHub:** https://github.com/TORKI3
-- **LinkedIn:** https://www.linkedin.com/in/kareemstohy/
-- **Codeforces:** https://codeforces.com/profile/Shafe2
-- **Email:** kareemstohy3@gmail.com
+Coming Soon...
 
 ---
 
-> *"Learning never stops. Every project is one step closer to mastery."*
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/TORKI3">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kareemstohy/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:kareemstohy3@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+</p>
+
+### Competitive Programming
+
+🔹 Codeforces: https://codeforces.com/profile/Shafe2
+
+---
+
+<p align="center">
+
+> *Code. Learn. Build. Repeat.*
+
+</p>
